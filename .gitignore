@@ -1,0 +1,27 @@
+# Classes compiladas
+*.class
+
+# Arquivos de log
+*.log
+
+# Diretórios de build comuns
+bin/
+build/
+lib/
+out/
+
+
+# Arquivos da IDE (Eclipse, IntelliJ, VSCode)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivo sensível da API
+api_key.txt
